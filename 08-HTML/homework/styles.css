@@ -1,0 +1,29 @@
+body{
+    background:bisque;
+    background-image:url(https://dam.cocinafacil.com.mx/wp-content/uploads/2018/12/ensaladas-saludables-mes.jpg);
+    
+}
+img{
+    width: 400px;    
+}
+#thirDiv{
+    height: 600px;
+    width: 500px;
+    background: darkviolet;
+    padding: 50px;
+    border: 5px solid black;
+    text-align: center;
+}
+#spanId{
+    font-size:18px;
+    margin:50px;
+    -webkit-text-stroke:5% white;
+    color: black;
+}
+.divClass{
+    text-align: center;
+    flex-direction:column;
+    background:bisque ;
+    
+
+}
